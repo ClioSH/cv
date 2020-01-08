@@ -1,0 +1,41 @@
+%A Few Useful Packages
+\usepackage{marvosym}
+\usepackage{fontspec} 					%for loading fonts
+\usepackage{xunicode,xltxtra,url,parskip} 	%other packages for formatting
+\usepackage[margin=2.5cm]{geometry}
+\RequirePackage{color,graphicx}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage[big]{layaureo} 				%better formatting of the A4 page
+% an alternative to Layaureo can be ** \usepackage{fullpage} **
+\usepackage{array,xeCJK}
+\usepackage{titlesec}					%custom \section
+
+%Setup hyperref package, and colours for links
+\usepackage{hyperref}
+\definecolor{linkcolour}{rgb}{0,0.2,0.6}
+\hypersetup{colorlinks,breaklinks,urlcolor=linkcolour, linkcolor=linkcolour}
+
+%FONTS
+\defaultfontfeatures{Mapping=tex-text}
+\newfontface\TitleFont{Adobe Text Pro}
+\setmainfont{Adobe Text Pro}
+\setsansfont{Myriad Pro}
+\setCJKmainfont{Source Han Sans TW}[Scale=0.85]
+
+\titleformat{\section}{\large\TitleFont\scshape\raggedright}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{1em}{0.5em}
+
+\setlength{\parindent}{0pt}
+\newcommand{\leftcolumn}{0.6\textwidth}
+\newcommand{\wideleftcolumn}{0.75\textwidth}
+\newcolumntype{L}{>{\raggedright\arraybackslash}p{\leftcolumn}}
+\newcolumntype{W}{>{\raggedright\arraybackslash}p{\wideleftcolumn}}
+\newcommand{\rightcolumn}{\textwidth-\leftcolumn-1cm}
+\newcommand{\narrowrightcolumn}{\textwidth-\wideleftcolumn-1cm}
+\newcolumntype{R}{>{\raggedleft\arraybackslash}p{\rightcolumn}}
+\newcolumntype{X}{>{\raggedleft\arraybackslash}p{\narrowrightcolumn}}
+\newcommand{\tablespacer}{\multicolumn{2}{c}{}\\}
+\newcommand{\entry}[1]{\textsf{#1}}
+\newcommand{\md}{$\cdot$ }
+\newenvironment{cvtable}{\begin{tabular}{WX}}{\end{tabular}}
+\newenvironment{cvtable*}{\begin{tabular}{LR}}{\end{tabular}}
