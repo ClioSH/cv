@@ -1,6 +1,6 @@
 %A Few Useful Packages
 \usepackage{marvosym}
-\usepackage{fontspec} 					%for loading fonts
+\usepackage{fontspec,enumitem} 					%for loading fonts
 \usepackage{xunicode,xltxtra,url,parskip} 	%other packages for formatting
 \usepackage[margin=2.5cm]{geometry}
 \RequirePackage{color,graphicx}
@@ -9,6 +9,7 @@
 % an alternative to Layaureo can be ** \usepackage{fullpage} **
 \usepackage{array,xeCJK}
 \usepackage{titlesec}					%custom \section
+\setlist[itemize]{leftmargin=0pt}
 
 %Setup hyperref package, and colours for links
 \usepackage{hyperref}
@@ -17,12 +18,12 @@
 
 %FONTS
 \defaultfontfeatures{Mapping=tex-text}
-\newfontface\TitleFont{Adobe Text Pro}
-\setmainfont{Adobe Text Pro}
-\setsansfont{Myriad Pro}
-\setCJKmainfont{Source Han Sans TW}[Scale=0.85]
+\newfontface\TitleFont{Futura}
+\setmainfont[Scale=0.95]{Adobe Garamond Pro}
+\setsansfont{Futura}
+\setCJKmainfont{Source Han Serif TC}[Scale=0.85]
 
-\titleformat{\section}{\large\TitleFont\scshape\raggedright}{}{0em}{}[\titlerule]
+\titleformat{\section}{\large\bfseries\TitleFont\raggedright}{}{0em}{}[\titlerule]
 \titlespacing{\section}{0pt}{1em}{0.5em}
 
 \setlength{\parindent}{0pt}
