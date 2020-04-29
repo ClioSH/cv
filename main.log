@@ -1,8 +1,9 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.12.18)  8 JAN 2020 21:35
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.3.11)  29 APR 2020 20:33
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**main
+**main.tex
 (./main.tex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
@@ -872,8 +873,8 @@ LaTeX Info: Redefining \nameref on input line 3.
 
 LaTeX Font Info:    Font shape `TU/AdobeGaramondPro(0)/m/n' will be
 (Font)              scaled to size 23.63593pt on input line 10.
-File: signature.png Graphic file (type bmp)
-<signature.png>
+File: shared/signature.png Graphic file (type bmp)
+<shared/signature.png>
 Invalid UTF-8 byte or sequence at line 14 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 14 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 14 replaced by U+FFFD.
@@ -882,8 +883,8 @@ Invalid UTF-8 byte or sequence at line 14 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 14 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 14 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 14 replaced by U+FFFD.
-File: mobile-alt.eps Graphic file (type eps)
-<mobile-alt.eps>
+File: shared/mobile-alt.eps Graphic file (type eps)
+<shared/mobile-alt.eps>
 LaTeX Font Info:    Font shape `TU/AdobeGaramondPro(0)/m/n' will be
 (Font)              scaled to size 6.64998pt on input line 14.
 LaTeX Font Info:    Font shape `TU/AdobeGaramondPro(0)/m/n' will be
@@ -899,8 +900,8 @@ Invalid UTF-8 byte or sequence at line 14 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 14 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 14 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 14 replaced by U+FFFD.
-File: envelope.eps Graphic file (type eps)
-<envelope.eps>
+File: shared/envelope.eps Graphic file (type eps)
+<shared/envelope.eps>
 LaTeX Font Info:    Font shape `TU/AdobeGaramondPro(0)/m/n' will be
 (Font)              scaled to size 11.39996pt on input line 17.
 LaTeX Font Info:    Font shape `TU/AdobeGaramondPro(0)/bx/n' will be
@@ -941,12 +942,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 28088 strings out of 492916
- 527604 string characters out of 6133344
+ 28089 strings out of 492916
+ 527660 string characters out of 6133345
  618322 words of memory out of 5000000
  31934 multiletter control sequences out of 15000+600000
  532978 words of font info for 60 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 45i,9n,79p,1189b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 45i,9n,79p,1193b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on main.pdf (1 page).
