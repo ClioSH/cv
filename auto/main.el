@@ -7,6 +7,7 @@
     "latex2e"
     "_preamble"
     "article"
-    "art10"))
+    "art10"
+    "multicol"))
  :latex)
 

@@ -146,6 +146,8 @@ INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/stringenc.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/stringenc.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/tools/multicol.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/tools/multicol.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/xelatex/xecjk/xunicode-addon.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/xelatex/xecjk/xunicode-addon.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/xelatex/xunicode/xunicode.sty
