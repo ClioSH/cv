@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.3.11)  30 APR 2020 02:00
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.3.11)  30 APR 2020 10:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -951,6 +951,17 @@ Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
 File: shared/envelope.eps Graphic file (type eps)
 <shared/envelope.eps>
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+File: shared/globe-asia.eps Graphic file (type eps)
+<shared/globe-asia.eps>
+File: shared/globe-asia.eps Graphic file (type eps)
+<shared/globe-asia.eps>
 
 
 Package xeCJK Warning: Unknown CJK family `\CJKsfdefault' is being ignored.
@@ -958,33 +969,33 @@ Package xeCJK Warning: Unknown CJK family `\CJKsfdefault' is being ignored.
 (xeCJK)                Try to use `\setCJKsansfont[...]{...}' to define it.
 
 LaTeX Font Info:    Font shape `TU/AdobeGaramondPro(0)/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 23.
+(Font)              scaled to size 11.39996pt on input line 25.
 LaTeX Font Info:    Font shape `TU/AdobeGaramondPro(0)/bx/n' will be
-(Font)              scaled to size 11.39996pt on input line 23.
+(Font)              scaled to size 11.39996pt on input line 25.
 
 LaTeX Font Warning: Font shape `TU/Futura(0)/bx/n' undefined
-(Font)              using `TU/Futura(0)/m/n' instead on input line 23.
+(Font)              using `TU/Futura(0)/m/n' instead on input line 25.
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 )
-Overfull \hbox (5.04723pt too wide) in paragraph at lines 34--58
+Overfull \hbox (5.04723pt too wide) in paragraph at lines 36--60
  [][] 
  []
 
 
 LaTeX Font Warning: Font shape `TU/Futura(1)/m/sc' undefined
-(Font)              using `TU/Futura(1)/m/n' instead on input line 71.
+(Font)              using `TU/Futura(1)/m/n' instead on input line 73.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 82.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 84.
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 84.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 82.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 84.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 860B767A82A4B63A6E22C9F2803C4EFB.
 
@@ -993,10 +1004,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 28206 strings out of 492916
- 529376 string characters out of 6133345
+ 28209 strings out of 492916
+ 529445 string characters out of 6133345
  623025 words of memory out of 5000000
- 32049 multiletter control sequences out of 15000+600000
+ 32051 multiletter control sequences out of 15000+600000
  532970 words of font info for 59 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  45i,9n,79p,1193b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
