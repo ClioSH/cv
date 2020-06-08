@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1591581432 "main.tex" "main.pdf" "main" 1591581435
-  "/dev/null" 1591581351 0 d41d8cd98f00b204e9800998ecf8427e ""
+["pdflatex"] 1591615349 "main.tex" "main.pdf" "main" 1591615353
+  "/dev/null" 1591615352 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
@@ -69,17 +69,17 @@
   "/usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf" 1557092114 35484 cb1661360667bf4db662a8895053b554 ""
   "/usr/local/texlive/2019/texmf-var/web2c/xetex/xelatex.fmt" 1583927986 3751092 81ec6ad57f5de9e7ccba7f9eabefdac7 ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "_preamble.tex" 1591577918 1751 01150aa3e366c10d9068e91e7ebeabf9 ""
-  "main.aux" 1591581434 1175 ed8fb7faa98b9f61145f21b71099811f "pdflatex"
-  "main.out" 1591581434 229 176ee65e0cdcfff7014125fc2eb59ead "pdflatex"
-  "main.tex" 1591581431 3871 4c5eb0321684dbd1a588eda86177eafe ""
+  "_preamble.tex" 1591585637 1731 9942cf3e9e1f4699c0fa716aed0e4051 ""
+  "main.aux" 1591615351 971 58d1ead011be0bbe3503befb05b42de2 "pdflatex"
+  "main.out" 1591615351 135 82467307e2272842d846de5cf842de1f "pdflatex"
+  "main.tex" 1591615348 4743 dfbf700b3fde2c40b320d7441f375bf4 ""
   "shared/envelope.eps" 1587571144 635158 61d81ebf3074952a1030d1bf711d9f5c ""
   "shared/github.eps" 1591577720 390122 8f4622cf23f781b0133a96d6507be73c ""
   "shared/globe-asia.eps" 1588213221 739770 a409ee8a8c1559f7d8161f078d718a98 ""
   "shared/mobile-alt.eps" 1587571144 558222 0eb3b29adfcd759851917da1d10d5ab8 ""
   "shared/signature.png" 1587571144 21961 a22253cf9fbeb0fff2091959b7f1fea9 ""
   (generated)
-  "main.log"
-  "main.pdf"
-  "main.aux"
   "main.out"
+  "main.log"
+  "main.aux"
+  "main.pdf"
