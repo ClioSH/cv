@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1591660886 "main.tex" "main.pdf" "main" 1591665538
-  "/dev/null" 1591665523 0 d41d8cd98f00b204e9800998ecf8427e ""
+["pdflatex"] 1591666769 "main.tex" "main.pdf" "main" 1591666769
+  "/dev/null" 1591666762 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
@@ -77,16 +77,16 @@
   "/usr/local/texlive/2019/texmf-var/web2c/xetex/xelatex.fmt" 1583927986 3751092 81ec6ad57f5de9e7ccba7f9eabefdac7 ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
   "_preamble.tex" 1591660884 1744 1942ec3d42d44ecf659c493789be4c8f ""
-  "main.aux" 1591660888 949 44df5c485dd0169128ce1cfad0ffba6f "pdflatex"
-  "main.out" 1591660888 138 860b767a82a4b63a6e22c9f2803c4efb "pdflatex"
-  "main.tex" 1591581819 2790 7e639aac8649518d53c429f21864ba83 ""
+  "main.aux" 0 -1 0 "pdflatex"
+  "main.out" 0 -1 0 "pdflatex"
+  "main.tex" 1591666768 3782 8dbeefccfa537a79a218aef48cc258f1 ""
   "shared/envelope.eps" 1591581782 635158 61d81ebf3074952a1030d1bf711d9f5c ""
   "shared/github.eps" 1591581782 390122 8f4622cf23f781b0133a96d6507be73c ""
   "shared/globe-asia.eps" 1591581782 739770 a409ee8a8c1559f7d8161f078d718a98 ""
   "shared/mobile-alt.eps" 1591581782 558222 0eb3b29adfcd759851917da1d10d5ab8 ""
   "shared/signature.png" 1591581782 21961 a22253cf9fbeb0fff2091959b7f1fea9 ""
   (generated)
-  "main.out"
-  "main.aux"
   "main.pdf"
+  "main.aux"
   "main.log"
+  "main.out"
