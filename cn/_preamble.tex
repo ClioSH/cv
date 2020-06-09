@@ -1,13 +1,14 @@
 %A Few Useful Packages
 \usepackage{marvosym}
+\usepackage{lastpage}
 \usepackage{fontspec,enumitem} 					%for loading fonts
 \usepackage{xunicode,xltxtra,hyperref,parskip} 	%other packages for formatting
 \usepackage[margin=2.5cm]{geometry}
-\RequirePackage{color,graphicx}
+\usepackage{color,graphicx}
 \usepackage[usenames,dvipsnames]{xcolor}
 \usepackage[big]{layaureo} 				%better formatting of the A4 page
 % an alternative to Layaureo can be ** \usepackage{fullpage} **
-\usepackage{array,xeCJK}
+\usepackage{array,xeCJK,fancyhdr}
 \usepackage{titlesec}					%custom \section
 \setlist[itemize]{leftmargin=0pt}
 
@@ -25,6 +26,11 @@
 
 \titleformat{\section}{\large\bfseries\TitleFont\raggedright}{}{0em}{}[\titlerule]
 \titlespacing{\section}{0pt}{1em}{0.5em}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\rhead{}
+\rfoot{頁面 \pageref{LastPage} 之 {\thepage}}
+\cfoot{}
 
 \setlength{\parindent}{0pt}
 \newcommand{\leftcolumn}{0.6\textwidth}
@@ -36,7 +42,7 @@
 \newcolumntype{R}{>{\raggedleft\arraybackslash}p{\rightcolumn}}
 \newcolumntype{X}{>{\raggedleft\arraybackslash}p{\narrowrightcolumn}}
 \newcommand{\tablespacer}{\multicolumn{2}{c}{}\\}
-\newcommand{\entry}[1]{\textsf{#1}}
+\newcommand{\entry}[1]{\textsf{\bfseries #1}}
 \newcommand{\md}{$\cdot$ }
 \newenvironment{cvtable}{\begin{tabular}{WX}}{\end{tabular}}
 \newenvironment{cvtable*}{\begin{tabular}{LR}}{\end{tabular}}

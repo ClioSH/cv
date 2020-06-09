@@ -2,7 +2,7 @@
  "_preamble"
  (lambda ()
    (TeX-add-to-alist 'LaTeX-provided-package-options
-                     '(("geometry" "margin=2.5cm") ("xcolor" "usenames" "dvipsnames") ("layaureo" "big")))
+                     '(("geometry" "margin=2cm") ("xcolor" "usenames" "dvipsnames") ("layaureo" "big")))
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
@@ -13,12 +13,11 @@
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
    (TeX-run-style-hooks
     "marvosym"
-    "lastpage"
     "fontspec"
     "enumitem"
     "xunicode"
     "xltxtra"
-    "hyperref"
+    "url"
     "parskip"
     "geometry"
     "color"
@@ -27,8 +26,8 @@
     "layaureo"
     "array"
     "xeCJK"
-    "fancyhdr"
-    "titlesec")
+    "titlesec"
+    "hyperref")
    (TeX-add-symbols
     '("entry" 1)
     "leftcolumn"

@@ -12,6 +12,8 @@ INPUT _preamble.tex
 INPUT _preamble.tex
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/marvosym/marvosym.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/marvosym/marvosym.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/lastpage/lastpage.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/lastpage/lastpage.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
@@ -132,6 +134,8 @@ INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
 INPUT /usr/local/texlive/2019/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/titlesec/titlesec.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/titlesec/titlesec.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/xelatex/xecjk/xunicode-addon.sty
@@ -164,6 +168,8 @@ INPUT shared/github.eps
 INPUT shared/github.eps
 INPUT shared/globe-asia.eps
 INPUT shared/globe-asia.eps
+INPUT shared/mail.png
+INPUT shared/landing.png
 INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
