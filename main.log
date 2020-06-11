@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.3.11)  9 JUN 2020 09:39
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.3.11)  11 JUN 2020 14:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -913,122 +913,141 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 4.
 LaTeX Info: Redefining \pageref on input line 4.
 LaTeX Info: Redefining \nameref on input line 4.
+
+(./main.out) (./main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
-
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
 
 LaTeX Font Info:    Font shape `TU/AdobeGaramondPro(0)/m/n' will be
 (Font)              scaled to size 23.63593pt on input line 11.
 File: shared/signature.png Graphic file (type bmp)
 <shared/signature.png>
-Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
 File: shared/mobile-alt.eps Graphic file (type eps)
 <shared/mobile-alt.eps>
 LaTeX Font Info:    Font shape `TU/AdobeGaramondPro(0)/m/n' will be
-(Font)              scaled to size 6.64998pt on input line 15.
+(Font)              scaled to size 6.64998pt on input line 16.
 LaTeX Font Info:    Font shape `TU/AdobeGaramondPro(0)/m/n' will be
-(Font)              scaled to size 4.74998pt on input line 15.
+(Font)              scaled to size 4.74998pt on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 15.
+(Font)              <7> on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 15.
-Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
+(Font)              <5> on input line 16.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
 File: shared/envelope.eps Graphic file (type eps)
 <shared/envelope.eps>
-Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
 File: shared/github.eps Graphic file (type eps)
 <shared/github.eps>
-Invalid UTF-8 byte or sequence at line 19 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 19 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 19 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 19 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 19 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 19 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 19 replaced by U+FFFD.
-File: shared/globe-asia.eps Graphic file (type eps)
-<shared/globe-asia.eps>
 LaTeX Font Info:    Font shape `TU/AdobeGaramondPro(0)/m/n' will be
 (Font)              scaled to size 11.39996pt on input line 24.
 LaTeX Font Info:    Font shape `TU/AdobeGaramondPro(0)/bx/n' will be
 (Font)              scaled to size 11.39996pt on input line 24.
 LaTeX Font Info:    Font shape `TU/AdobeGaramondPro(0)/bx/n' will be
-(Font)              scaled to size 9.49997pt on input line 37.
+(Font)              scaled to size 9.49997pt on input line 31.
 
-LaTeX Font Warning: Font shape `TU/Futura(0)/bx/n' undefined
-(Font)              using `TU/Futura(0)/m/n' instead on input line 44.
-
-(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
-File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
-
-)
 
 Package xeCJK Warning: Unknown CJK family `\CJKsfdefault' is being ignored.
 (xeCJK)                
 (xeCJK)                Try to use `\setCJKsansfont[...]{...}' to define it.
 
 
-Overfull \hbox (5.04723pt too wide) in paragraph at lines 46--70
+./main.tex:50: Package keyval Error: center undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...idth=0.8em, center]{shared/globe-asia.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+File: shared/globe-asia.eps Graphic file (type eps)
+<shared/globe-asia.eps>
+File: shared/mail.png Graphic file (type bmp)
+<shared/mail.png>
+File: shared/landing.png Graphic file (type bmp)
+<shared/landing.png>
+
+LaTeX Font Warning: Font shape `TU/Futura(0)/bx/n' undefined
+(Font)              using `TU/Futura(0)/m/n' instead on input line 85.
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
+File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
+
+)
+Overfull \hbox (5.04723pt too wide) in paragraph at lines 87--112
  [][] 
  []
 
 
+Overfull \hbox (5.04723pt too wide) in paragraph at lines 113--120
+ [][] 
+ []
+
+[1
+
+]
+
 LaTeX Font Warning: Font shape `TU/Futura(1)/m/sc' undefined
-(Font)              using `TU/Futura(1)/m/n' instead on input line 83.
+(Font)              using `TU/Futura(1)/m/n' instead on input line 125.
 
 
-./main.tex:101: LaTeX Error: \begin{center} on input line 10 ended by \end{docu
+Overfull \hbox (5.04723pt too wide) in paragraph at lines 123--135
+ [][] 
+ []
+
+
+./main.tex:143: LaTeX Error: \begin{center} on input line 10 ended by \end{docu
 ment}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.101 \end{document}
+l.143 \end{document}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 101.
-[1
-
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 101.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 143.
+[2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 143.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 101.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 101.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 143.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 143.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: EABCAEC38D6212EC644EF463CB0489E1.
 
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 
-(rerunfilecheck)             After:  EABCAEC38D6212EC644EF463CB0489E1.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1038,12 +1057,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 ### semi simple group (level 1) entered at line 10 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 28208 strings out of 492916
- 529431 string characters out of 6133345
- 625804 words of memory out of 5000000
- 32052 multiletter control sequences out of 15000+600000
+ 28222 strings out of 492916
+ 529626 string characters out of 6133345
+ 624919 words of memory out of 5000000
+ 32060 multiletter control sequences out of 15000+600000
  532978 words of font info for 60 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 45i,9n,79p,1193b,506s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 45i,9n,79p,1193b,509s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (1 page).
+Output written on main.pdf (2 pages).

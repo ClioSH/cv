@@ -163,6 +163,11 @@ INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+INPUT main.out
+INPUT main.out
+INPUT main.out
+INPUT main.out
+INPUT ./main.out
 OUTPUT main.out
 INPUT shared/signature.png
 INPUT shared/mobile-alt.eps
@@ -173,6 +178,8 @@ INPUT shared/github.eps
 INPUT shared/github.eps
 INPUT shared/globe-asia.eps
 INPUT shared/globe-asia.eps
+INPUT shared/mail.png
+INPUT shared/landing.png
 INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
