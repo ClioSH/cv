@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.3.11)  11 JUN 2020 12:21
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.3.11)  10 AUG 2020 09:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -854,31 +854,52 @@ Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
+File: shared/envelope.eps Graphic file (type eps)
+<shared/envelope.eps>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 13.
+Invalid UTF-8 byte or sequence at line 14 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 14 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 14 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 14 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 14 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 14 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 14 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 14 replaced by U+FFFD.
+File: shared/mobile-alt.eps Graphic file (type eps)
+<shared/mobile-alt.eps>
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
 File: shared/github.eps Graphic file (type eps)
 <shared/github.eps>
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+File: shared/globe-asia.eps Graphic file (type eps)
+<shared/globe-asia.eps>
 
-Overfull \hbox (0.85974pt too wide) in paragraph at lines 16--17
+Overfull \hbox (0.85974pt too wide) in paragraph at lines 20--21
 [][] 
  []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 26.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 26.
-Invalid UTF-8 byte or sequence at line 44 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 44 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 44 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 44 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 44 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 44 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 44 replaced by U+FFFD.
 File: shared/globe-asia.eps Graphic file (type eps)
 <shared/globe-asia.eps>
 File: shared/mail.png Graphic file (type bmp)
 <shared/mail.png>
 
-Underfull \hbox (badness 1371) in paragraph at lines 57--59
+Underfull \hbox (badness 1371) in paragraph at lines 61--63
 []| \TU/NotoSans(1)/m/n/10 [\TU/SourceHanSansTW(0)/m/n/10 前 端\TU/NotoSans(1)/m/
 n/10 ] HTML, CSS, Bootstrap, SortableJS,
  []
@@ -887,45 +908,42 @@ File: shared/landing.png Graphic file (type bmp)
 <shared/landing.png>
 
 LaTeX Font Warning: Font shape `TU/NotoSans(0)/bx/n' undefined
-(Font)              using `TU/NotoSans(0)/m/n' instead on input line 82.
+(Font)              using `TU/NotoSans(0)/m/n' instead on input line 86.
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 )
-Overfull \hbox (5.54726pt too wide) in paragraph at lines 84--104
- [][] 
- []
-
 LaTeX Font Info:    Font shape `TU/NotoSans(1)/m/sl' in size <10> not available
 
 (Font)              Font shape `TU/NotoSans(1)/m/it' tried instead on input lin
-e 121.
+e 115.
+
 [1
 
 ] 
 AED: lastpage setting LastPage
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 144.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 144.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 153.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 153.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 144.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 144.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 153.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 153.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 82467307E2272842D846DE5CF842DE1F.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 144.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 153.
  ) 
 Here is how much of TeX's memory you used:
- 28296 strings out of 492916
- 534314 string characters out of 6133345
- 626680 words of memory out of 5000000
- 32157 multiletter control sequences out of 15000+600000
+ 28302 strings out of 492916
+ 534446 string characters out of 6133345
+ 625680 words of memory out of 5000000
+ 32161 multiletter control sequences out of 15000+600000
  532946 words of font info for 56 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 45i,11n,79p,1193b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 45i,12n,79p,1193b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on main.pdf (2 pages).

@@ -160,8 +160,13 @@ INPUT main.out
 INPUT ./main.out
 OUTPUT main.out
 INPUT shared/signature.png
+INPUT shared/envelope.eps
+INPUT shared/envelope.eps
+INPUT shared/mobile-alt.eps
+INPUT shared/mobile-alt.eps
 INPUT shared/github.eps
 INPUT shared/github.eps
+INPUT shared/globe-asia.eps
 INPUT shared/globe-asia.eps
 INPUT shared/globe-asia.eps
 INPUT shared/mail.png
